@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    }
+    
+    header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    }
+    
+    .logo {
+    font-size: 24px;
+    font-weight: bold;
+    }
+    
+    .main-navigation {
+    list-style: none;
+    padding: 0;
+    }
+    
+    .main-navigation li {
+    display: inline;
+    margin: 0 10px;
+    }
+    
+    .main-navigation a {
+    color: #fff;
+    text-decoration: none;
+    }
+    
+    #hero {
+    background: url('hero-background.jpg') no-repeat center center/cover;
+    color: #fff;
+    padding: 100px 20px;
+    text-align: center;
+    }
+    
+    .cta-button {
+    background: #ff5722;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+    }
+    
+    section {
+    padding: 40px 20px;
+    }
+    
+    h2 {
+    margin-top: 0;
+    }
+    
+    .team-members, .portfolio-item {
+    display: flex;
+    flex-wrap: wrap;
+    }
+    
+    .team-member, .portfolio-item {
+    margin: 10px;
+    text-align: center;
+    }
+    
+    footer {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    }
+    
+    footer a {
+    color: #ff5722;
+    text-decoration: none;
+    margin: 0 10px;
+    }
+    
+    .newsletter-signup input[type="email"] {
+    padding: 5px;
+    margin-right: 5px;
+    }
+    
+    .newsletter-signup button {
+    padding: 5px 10px;
+    background: #ff5722;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    }
