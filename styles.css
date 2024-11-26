@@ -140,7 +140,6 @@ ul.staff li img {
 }
 
 .title h2 {
-  text-transform: uppercase;
   font-size: 2.7em;
 }
 
@@ -241,7 +240,6 @@ ul.staff li img {
 
 #logo a {
   text-decoration: none;
-  text-transform: uppercase;
   color: #fff;
 }
 
@@ -268,7 +266,6 @@ ul.staff li img {
   padding: 1em 1.5em;
   letter-spacing: 1px;
   text-decoration: none;
-  text-transform: uppercase;
   font-size: 0.8em;
   color: #fff;
 }
@@ -296,7 +293,6 @@ ul.staff li img {
 
 #banner .title {
   margin-bottom: 1em;
-  text-transform: uppercase !important;
 }
 
 #banner .title h2 {
@@ -470,5 +466,56 @@ ul {
 
 #map {
   height: 400px; /* Adjust height as needed */
-  width: 100%;   /* Adjust width as needed */
+  width: 100%; /* Adjust width as needed */
+}
+
+.pricing-table {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.pricing-card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 250px;
+  text-align: center;
+}
+
+.pricing-card h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.price {
+  font-size: 24px;
+  color: #2a9d8f;
+  margin: 10px 0;
+}
+
+.pricing-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.pricing-card ul li {
+  margin: 10px 0;
+  color: #555;
+}
+
+button {
+  background-color: #2a9d8f;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #21867a;
 }
