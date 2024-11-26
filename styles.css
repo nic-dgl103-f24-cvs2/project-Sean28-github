@@ -467,3 +467,8 @@ ul {
   text-align: center;
   font-size: 3em;
 }
+
+#map {
+  height: 400px; /* Adjust height as needed */
+  width: 100%;   /* Adjust width as needed */
+}

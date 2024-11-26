@@ -26,14 +26,26 @@
 	</div>
 	</div>
 
-	<div id="banner">
-		<div class="container">
-			<div class="title">
-				<span class="byline">location</span> </div>
-			<ul class="actions">
-			</ul>
-		</div>
-	</div>
+    <div id="map"></div>
+    <script src=
+"https://maps.googleapis.com/maps/api/js?key=AIzaSyA4OEOL4kP9lHnQdPvxAwH2oySl3_CdJfY&callback=initMap&libraries=&v=weekly"
+        async>
+    </script>
+    <script>
+        function initMap() {
+            const gfg_office = {
+                lat: 49.70045197799659,
+                lng: -124.98509093679446,
+            };
+
+            const map = new google.maps.Map(
+                    document.getElementById("map"), {
+
+                zoom: 10,
+                center: gfg_office,
+            });
+        }
+    </script>
 
 <footer class="footer">
 	<div class="container">
