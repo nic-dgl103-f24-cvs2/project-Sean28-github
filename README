@@ -1,0 +1,144 @@
+1. Project Summary
+- Site i have chosen is https://ascentphysiotherapy.com/
+Explain why the client needs a new website:
+
+What is the most important purpose of this website
+The primary purpose of the Ascent Physiotherapy website is to provide information about their physiotherapy services, including various treatment options like manual therapy, acupuncture, and personal training. It also facilitates booking appointments, allowing potential clients to easily access and schedule their services. Additionally, the site likely aims to inform the community about their team and facilities, as well as provide contact information for inquiries.
+
+Who is the target audience? Perhaps there are multiple target audiences? 
+ *Residents of Comox Valley: People living in or around the area who may need physiotherapy services.
+ *Individuals with Specific Health Needs: Those looking for treatments like manual therapy, acupuncture, or personal training.
+ *Athletes or Active Individuals: People interested in injury prevention and rehabilitation.
+ *General Health Seekers: Anyone looking to improve their physical health and wellness through professional guidance.
+Overall, the site is aimed at a community-focused audience seeking comprehensive physiotherapy services.
+
+What is the overall message you are trying to convey to your target audience on this website? What action do you want the audience to perform before they leave your website? Are there multiple ways they could take action?
+The overall message of the Ascent Physiotherapy website is to inform potential clients about the range of physiotherapy services offered, emphasizing their expertise and commitment to the health of the Conox Valley community. 
+The primary action you want the audience to take before leaving the website is to book an appointment. This can be facilitated through the "Book Now" button prominently displayed on the site.
+There are multiple ways the audience could take action, including:
+ *Online Booking: Clicking the "Book Now" button to schedule an appointment directly.
+ *Phone Call: Using the displayed phone number to call and inquire or book an appointment.
+ *Contact Form: Filling out a contact form for more information or to ask specific questions.
+ *Exploring Services: Navigating through the "Products & Services" section to learn more about specific treatments before booking.
+
+
+Why is their current site not appropriate? There could be many reasons to do with accessibility, speed, design, content, or responsiveness.
+There are several potential reasons why the current website for Ascent Physiotherapy might be considered inappropriate or in need of improvement:
+
+1. Accessibility: The site may not be fully accessible to users with disabilities. This includes lack of alt text for images, insufficient color contrast, or navigation that isn't keyboard-friendly.
+
+2. Speed: If the website takes too long to load, it can frustrate users and lead to higher bounce rates. Optimizing images and minimizing scripts can help improve speed.
+
+3. Design: The overall design may feel outdated or cluttered. A more modern, clean layout can enhance user experience and engagement.
+
+4. Content: The content might be too dense or not engaging enough. Using clear headings, bullet points, and concise language can improve readability.
+
+5. Responsiveness: If the site does not display well on mobile devices, it can alienate a significant portion of users. Ensuring the site is responsive and mobile-friendly is crucial.
+
+6. Navigation: If the navigation is not intuitive, users may struggle to find the information they need. A clear and logical menu structure is essential.
+
+7. SEO Optimization: The site may not be optimized for search engines, making it harder for potential clients to find it online. Implementing SEO best practices can improve visibility.
+
+8. Call to Action: The call-to-action buttons (like "Book Now") should be prominent and easy to find. If they are not, users may miss important actions.
+
+9. Visual Hierarchy The use of fonts, colors, and spacing should guide users' attention effectively. Poor visual hierarchy can make it difficult for users to process information.
+
+10. Updates: If the content is outdated, it can give a negative impression of the business. Regular updates to news, services, and team information are important.
+
+Addressing these issues can significantly enhance the user experience and effectiveness of the website.
+
+================================================================================================================
+
+2. Look and feel
+
+Mood
+1. Calm and Minimalist: The website should convey a sense of tranquility and simplicity, making it easy for users to navigate and find information.
+2. Approachable and Friendly: The design should feel welcoming, encouraging visitors to engage with the services offered.
+3. Clean and Professional: A polished look that instills trust and confidence in the services provided.
+
+Inspiration
+1. Website 1: 
+   - URL: https://thriveworks.com/
+   - Screenshot: C:\Users\pc\Documents\GitHub\project-Sean28-github\images\website1.PNG
+   - Description: This site uses a calm color palette and minimalist design, making it easy to navigate.
+
+2. Website 2: 
+   - URL: https://www.choosingtherapy.com/
+   - Screenshot: C:\Users\pc\Documents\GitHub\project-Sean28-github\images\website2.PNG
+   - Description: This design is approachable with friendly imagery and a clean layout, perfect for a health-related service.
+
+Colours
+1. Primary Color: Soft Blue (#A3C1DA)
+2. Neutral Color: Light Gray (#F5F5F5)
+3. Highlight Color: Warm Orange (#FFAA00)
+
+Images
+- Logo: The existing logo can be reused.
+- Photos: High-quality images of the team and facilities can be utilized.
+- Icons: Simple, modern icons that align with the new design aesthetic.
+
+Fonts
+1. Headline Font: Montserrat (for a modern and clean look)
+2. Body Font: Open Sans (for readability and a friendly feel)
+
+================================================================================================================
+
+3.  Website Content
+
+Home Page
+
+- Header
+
+Logo
+Main Navigation (With Hamburger Menu)
+- Home 
+- News
+- Our Team (Gonna Write This One)
+- Product & Services (Gonna Write This One)
+- Facilities 
+- Contact Us (Gonna Write This One)
+
+- Hero Section
+Main Heading (H1): A strong, clear statement about what the business offers.
+Subheading (H2 or Paragraph): A brief description or tagline that supports the main heading.
+Call to Action (CTA) Button: A prominent button that encourages users to take action (e.g., "Book Now").
+Background Image or Color: A visually appealing background that reflects the brand.
+Additional Visuals: Optional images or icons that enhance the message (e.g., a photo of the clinic or team).
+Contact Information: Optionally, you can include a phone number or email for quick access.
+
+- About Section
+Main Heading (H2): A clear title for the section, such as "About Us" or "Who We Are."
+Brief Introduction: A short paragraph that summarizes the purpose of the business and its mission.
+Core Values or Philosophy: A list or brief description of the values that guide the practice.
+Team Members: Introduce key team members with their names, titles, and a short bio or description.
+Images: Photos of the team or the clinic to create a personal connection.
+Call to Action: A button or link encouraging visitors to learn more about services or book an appointment.
+
+- Benefit Section
+Main Heading (H2): A clear title for the section, such as "Benefits of Our Services" or "Why Choose Us."
+Brief Introduction: A short paragraph that introduces the benefits and sets the context.
+List of Benefits: A bulleted or numbered list that clearly outlines the specific benefits of your services.
+Icons or Images: Visual elements that represent each benefit, making the section more engaging.
+Call to Action (CTA): A button or link encouraging visitors to book an appointment or learn more about services.
+
+- Portfolio Section
+Main Heading (H2): A clear title for the section, such as "Our Success Stories," "Client Transformations," or "Case Studies."
+Brief Introduction: A short paragraph that explains what the portfolio showcases and its importance.
+Portfolio Items: Individual items that highlight specific cases, treatments, or success stories. Each item can include:
+   - Image: A relevant image or before-and-after photo.
+   - Title: A brief title or name for the case.
+   - Description: A short description of the treatment or success story.
+   - Client Testimonial: A quote from the client (if applicable).
+Call to Action (CTA): A button or link encouraging visitors to book an appointment or learn more about services.
+
+- Footer Section
+Contact Information: Include your clinic's address, phone number, and email address.
+Quick Links: Provide links to important pages such as Services, About Us, Contact, and Privacy Policy.
+Social Media Links: Icons linking to your social media profiles (e.g., Facebook, Instagram, Twitter).
+Newsletter Signup: An optional field for visitors to subscribe to your newsletter.
+Copyright Notice: A statement indicating copyright ownership.
+Additional Information*: Any other relevant information, such as office hours or a brief tagline.
+
+
+
+
